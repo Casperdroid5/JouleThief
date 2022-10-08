@@ -1,0 +1,10 @@
+Designator,Footprint,Quantity,Value,LCSC Part #
+C1,C_Axial_L5.1mm_D3.1mm_P7.50mm_Horizontal,1,220pf,
+D1,LED_D5.0mm_Clear,1,LED,
+"J1, J2",TerminalBlock_bornier-2_P5.08mm,2,Screw_Terminal_01x02,
+L1,L_Axial_L5.0mm_D3.6mm_P10.00mm_Horizontal_Murata_BL01RN1A2A2,1,100uH,
+"Q1, Q2",TO-92_Inline,2,BC547,
+R1,R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal,1,22k,
+R2,R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal,1,330,
+R3,R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal,1,300,
+S1,SW_1825159-1,1,SWITCH-SPDT-PTH-11.6X4.0MM-KIT,
