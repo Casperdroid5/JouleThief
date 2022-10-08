@@ -650,6 +650,12 @@
   (gr_text "-\n" (at 119.888 100.965) (layer "B.SilkS") (tstamp fcbea78b-963f-4c43-9128-1b29f9e751e9)
     (effects (font (size 1 1) (thickness 0.25)) (justify mirror))
   )
+  (gr_text "A" (at 153.924 93.5228) (layer "F.SilkS") (tstamp 7dd0b463-79d2-4815-973f-1861853215f3)
+    (effects (font (size 1 1) (thickness 0.25)))
+  )
+  (gr_text "C" (at 151.4856 93.5736) (layer "F.SilkS") (tstamp d0ca24e3-3006-45e2-b1b1-8e6623684a1f)
+    (effects (font (size 1 1) (thickness 0.25)))
+  )
 
   (segment (start 130.93163 104.648) (end 136.533334 104.648) (width 0.5) (layer "F.Cu") (net 1) (tstamp 148e4dd2-6531-4782-b31f-b6cdf81974ba))
   (segment (start 128.3 98.6328) (end 128.27 98.6028) (width 0.5) (layer "F.Cu") (net 1) (tstamp 1e0acaff-4bd2-4e90-a48d-1878c28a7b76))
